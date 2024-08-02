@@ -66,7 +66,7 @@ The grade for this course will be determined according to the following:
 | Activity | % of Final Grade |
 | --- | --- |
 | Programming Assignments | 50% |
-| Readings | 20% |
+| Reading Responses | 20% |
 | Final Project | 30% |
 
 Letter grades for the entire course will be assigned as follows:
@@ -90,58 +90,57 @@ Letter grades for the entire course will be assigned as follows:
 - Setting up Python and GitHub
 
 ### Week 02 (2024/09/10)
-- GitHub
-- Review Programming
-- More Python
+- More GitHub and Notebooks
+- Python Lists and Dictionaries/Objects
+- Slicing
+- NumPy
 
 ### Week 03 (2024/09/17)
-- Python lists and objects
-- Python functions and classes
+- Data Structures for media
+- Audio and Audio Processing
 
 ### Week 04 (2024/09/24)
-- Independent Study
+- Data Structures for media
+- Images and Videos
+- Image Processing
 
 ### Week 05 (2024/10/01)
-- Python lists and objects for data
-- Datasets and Matplotlib
-
-### Week 06 (2024/xx/xx)
-- Independent Study
-
-### Week 07 (2024/xx/xx)
-- Independent Study
-
-### Week 08 (2024/xx/xx)
-- Independent Study
-
-### Week 09 (2024/xx/xx)
-- HW02 Review
-
-### Week 10 (2024/xx/xx)
-- Data Structures for media
-- Numpy
-- Audio & Images
-
-### Week 11 (2024/xx/xx)
-- Data Structures for media
-- Numpy
-- Audio & Images
-
-### Week 12 (2024/xx/xx)
-- HW03 Review
-
-### Week 13 (2024/xx/xx)
-- Pandas & Dataset Exploration
+- Dataset Exploration and Matplotlib
+- Pandas & DataFrames
 - Scaling & Encoding
 
-### Week 14 (2024/xx/xx)
+### Week 06 (2024/10/08)
 - Regression vs Classification
 - Supervised vs Unsupervised
 - ML with Scikit-Learn
 
+### Week 07 (2024/10/15)
+- Non-Supervised Learning
+
+### Week 08 (2024/10/22)
+- Error & Accuracy
+- Cost Functions
+
+### Week 09 (2024/10/29)
+- TBD
+
+### Week 10 (2024/xx/xx)
+- TBD
+
+### Week 11 (2024/xx/xx)
+- TBD
+
+### Week 12 (2024/xx/xx)
+- TBD
+
+### Week 13 (2024/xx/xx)
+- TBD
+
+### Week 14 (2024/xx/xx)
+- TBD
+
 ### Week 15 (2024/xx/xx)
-- Neural Networks
-- PyTorch
+- TBD
 
 ---
 

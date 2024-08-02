@@ -55,8 +55,7 @@
 
   {% if p.homework %}
     {% assign hw = phw | where_exp: "h", "h.slug == p.homework" | first %}
+    <h3><a href="{{ hw.url }}">{{ hw.title }} | due: {{ hw.when }}</a></h3>
   {% endif %}
-
-  <h3><a href="{{ hw.url }}">{{ hw.title }} | due: {{ hw.when }}</a></h3>
 
 </div>

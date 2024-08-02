@@ -7,14 +7,18 @@
 - Instructor: [Thiago Hersan](https://thiagohersan.com)
 - email: [thiago.hersan@nyu.edu](mailto:thiago.hersan@nyu.edu)
 - Website: [https://9103H.github.io](https://9103H.github.io)
+- Class Meeting: Tuesdays 6:30pm - 9:20pm 370 Jay Street Room 308
+- Office Hours: ...Soon...
+- Brightspace: ...Soon...
 
 ## Important Dates (for this course)
 
-- 2024/xx/xx: First class meeting
-- 2024/xx/xx: Last day to Add/Drop class
-- 2024/xx/xx: Break, no class
-- 2024/xx/xx: Last day to withdraw from class
-- 2024/xx/xx: Last day of class
+- 2024/09/03: First class meeting
+- 2024/09/16: Last day to Add/Drop class
+- 2024/10/15: Break, no class
+- 2024/11/25: Last day to withdraw from class
+- 2024/12/10: Last class
+- 2024/12/17: Final Project due
 
 ---
 
@@ -80,24 +84,24 @@ Letter grades for the entire course will be assigned as follows:
 
 ## Course Schedule (subject to change)
 
-### Week 01 (2024/xx/xx)
+### Week 01 (2024/09/03)
 - Intro to Intro to ML
 - Intro to Python
 - Setting up Python and GitHub
 
-### Week 02 (2024/xx/xx)
+### Week 02 (2024/09/10)
 - GitHub
 - Review Programming
 - More Python
 
-### Week 03 (2024/xx/xx)
+### Week 03 (2024/09/17)
 - Python lists and objects
 - Python functions and classes
 
-### Week 04 (2024/xx/xx)
+### Week 04 (2024/09/24)
 - Independent Study
 
-### Week 05 (2024/xx/xx)
+### Week 05 (2024/10/01)
 - Python lists and objects for data
 - Datasets and Matplotlib
 

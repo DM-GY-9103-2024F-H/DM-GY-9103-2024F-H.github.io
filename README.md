@@ -45,13 +45,11 @@ By the end of the course, students will have:
 
 ### Programming Assignments
 
-Biweekly exercises to experiment with the Python language and libraries for working with data.
+Weekly exercises to experiment with the Python language and libraries for working with data.
 
 ### Reading Assignments
 
-Four readings from books about the social implications of machine learning and big data systems.
-
-Two readings of classic ML papers.
+Readings from books about the social implications of machine learning and big data systems, and one or two readings of classic ML papers.
 
 ### Project
 
@@ -96,12 +94,12 @@ Letter grades for the entire course will be assigned as follows:
 - NumPy
 
 ### Week 03 (2024/09/17)
-- Data Structures for media
+- Data Structures for Media
 - Audio and Audio Processing
 
 ### Week 04 (2024/09/24)
-- Data Structures for media
-- Images and Videos
+- Data Structures for Media
+- Images & Videos
 - Image Processing
 
 ### Week 05 (2024/10/01)
@@ -110,16 +108,17 @@ Letter grades for the entire course will be assigned as follows:
 - Scaling & Encoding
 
 ### Week 06 (2024/10/08)
-- Regression vs Classification
-- Supervised vs Unsupervised
+- Regression & Classification
+- Supervised & Unsupervised
 - ML with Scikit-Learn
 
 ### Week 07 (2024/10/15)
 - Non-Supervised Learning
 
 ### Week 08 (2024/10/22)
-- Error & Accuracy
+- Measuring Learning
 - Cost Functions
+- Error & Accuracy
 
 ### Week 09 (2024/10/29)
 - TBD

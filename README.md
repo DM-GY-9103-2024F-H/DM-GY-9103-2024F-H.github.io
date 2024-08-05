@@ -90,8 +90,8 @@ Letter grades for the entire course will be assigned as follows:
 ### Week 02 (2024/09/10)
 - More GitHub and Notebooks
 - Python Lists and Dictionaries/Objects
-- Slicing
 - NumPy
+- Reading: Material implications of ML systems
 
 ### Week 03 (2024/09/17)
 - Data Structures for Media
@@ -101,6 +101,7 @@ Letter grades for the entire course will be assigned as follows:
 - Data Structures for Media
 - Images & Videos
 - Image Processing
+- Reading: Big Data & Big Media
 
 ### Week 05 (2024/10/01)
 - Dataset Exploration and Matplotlib
@@ -111,6 +112,7 @@ Letter grades for the entire course will be assigned as follows:
 - Regression & Classification
 - Supervised & Unsupervised
 - ML with Scikit-Learn
+- Reading: Capturing (with) Data
 
 ### Week 07 (2024/10/15)
 - Non-Supervised Learning
@@ -119,6 +121,7 @@ Letter grades for the entire course will be assigned as follows:
 - Measuring Learning
 - Cost Functions
 - Error & Accuracy
+- Reading: Situated Knowledges
 
 ### Week 09 (2024/10/29)
 - TBD

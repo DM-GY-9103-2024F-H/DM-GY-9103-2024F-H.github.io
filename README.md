@@ -115,7 +115,7 @@ Letter grades for the entire course will be assigned as follows:
 - Reading: Capturing (with) Data
 
 ### Week 07 (2024/10/15)
-- Non-Supervised Learning
+- Unsupervised Learning
 
 ### Week 08 (2024/10/22)
 - Measuring Learning
@@ -163,9 +163,10 @@ Students should expect to spend roughly 6 hours each week on supplemental work i
 
 All of these are available digitally from the NYU library:
 
-- [Hands-On Scikit-Learn for Machine Learning](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/hands-on-scikit-learn-for/9781484253731/) by David Paper
-- [Deep Learning for Coders with fastai and PyTorch](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/deep-learning-for/9781492045519/) by Jeremy Howard, Sylvain Gugger
+- [Data Science and Analytics with Python](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=5264120) by Jesús Rogel-Salazar
+- [Hands-On Scikit-Learn for Machine Learning](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=5979665) by David Paper
 - [Deep Learning with PyTorch](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/deep-learning-with/9781617295263/) by Thomas Viehmann, Eli Stevens, Luca Pietro Giovanni Antiga
+- [Deep Learning for Coders with fastai and PyTorch](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/deep-learning-for/9781492045519/) by Jeremy Howard, Sylvain Gugger
 - [Deep Learning with PyTorch Lightning](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/deep-learning-with/9781800561618/) by Kunal Sawarkar
 
 Additional reading materials will be distributed throughout the semester.

@@ -11,6 +11,7 @@
 
 All of these are available digitally from the NYU library:
 
+- [Machine Learning for Audio, Image and Video Analysis: Theory and Applications](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=3062703) by Francesco Camastra
 - [Data Science and Analytics with Python](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=5264120) by Jesús Rogel-Salazar
 - [Deep Learning with PyTorch](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/deep-learning-with/9781617295263/) by Thomas Viehmann, Eli Stevens, Luca Pietro Giovanni Antiga
 - [Deep Learning for Coders with fastai and PyTorch](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/deep-learning-for/9781492045519/) by Jeremy Howard, Sylvain Gugger

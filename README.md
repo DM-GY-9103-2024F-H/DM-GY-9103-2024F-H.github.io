@@ -95,7 +95,7 @@ Letter grades for the entire course will be assigned as follows:
 
 ### Week 03 (2024/09/17)
 - Data Structures for Media
-- Audio and Audio Processing
+- Audio Representation and Processing
 
 ### Week 04 (2024/09/24)
 - Data Structures for Media
@@ -107,11 +107,12 @@ Letter grades for the entire course will be assigned as follows:
 - Dataset Exploration and Matplotlib
 - Pandas & DataFrames
 - Scaling & Encoding
+- ML with Scikit-Learn
 
 ### Week 06 (2024/10/08)
 - Regression & Classification
 - Supervised Learning
-- ML with Scikit-Learn
+- More ML with Scikit-Learn
 - Reading: Capturing (with) Data
 
 ### Week 07 (2024/10/15)
@@ -169,6 +170,7 @@ Students should expect to spend roughly 6 hours each week on supplemental work i
 
 All of these are available digitally from the NYU library:
 
+- [Machine Learning for Audio, Image and Video Analysis: Theory and Applications](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=3062703) by Francesco Camastra
 - [Data Science and Analytics with Python](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=5264120) by Jesús Rogel-Salazar
 - [Deep Learning with PyTorch](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/deep-learning-with/9781617295263/) by Thomas Viehmann, Eli Stevens, Luca Pietro Giovanni Antiga
 - [Deep Learning for Coders with fastai and PyTorch](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/deep-learning-for/9781492045519/) by Jeremy Howard, Sylvain Gugger

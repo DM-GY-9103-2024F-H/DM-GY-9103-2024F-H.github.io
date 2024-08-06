@@ -110,17 +110,20 @@ Letter grades for the entire course will be assigned as follows:
 
 ### Week 06 (2024/10/08)
 - Regression & Classification
-- Supervised & Unsupervised
+- Supervised Learning
 - ML with Scikit-Learn
 - Reading: Capturing (with) Data
 
 ### Week 07 (2024/10/15)
 - Unsupervised Learning
-
-### Week 08 (2024/10/22)
 - Measuring Learning
 - Cost Functions
 - Error & Accuracy
+
+### Week 08 (2024/10/22)
+- Machine Learning Review
+- Intro to Neural Networks
+- PyTorch
 - Reading: Situated Knowledges
 
 ### Week 09 (2024/10/29)
@@ -128,18 +131,21 @@ Letter grades for the entire course will be assigned as follows:
 
 ### Week 10 (2024/xx/xx)
 - TBD
+- Reading: ImageNet Classification with Convolutional Neural Networks
 
 ### Week 11 (2024/xx/xx)
 - TBD
 
 ### Week 12 (2024/xx/xx)
 - TBD
+- Reading: Missing Data Sets
 
 ### Week 13 (2024/xx/xx)
 - TBD
 
 ### Week 14 (2024/xx/xx)
 - TBD
+- Reading: Cosmotechnics, Unknowns, ChatGPT and Eschatology
 
 ### Week 15 (2024/xx/xx)
 - TBD

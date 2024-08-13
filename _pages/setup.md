@@ -20,13 +20,13 @@ Download and install [GitHub Desktop](https://desktop.github.com/). This is the 
 
 The easiest way to get started is actually to use [GitHub Codespaces](https://github.com/features/codespaces) online. It gives us an online version of VSCode that we can use to run our Python code. This will be automatically set up once assignments are cloned from the class repositories.
 
+## IDE (if running locally) (NOT required)
+
 OTHERWISE, if running locally, install [conda](https://docs.conda.io/projects/conda) to manage python versions and packages:
 
 - [Mac Install](https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html)
 - [Win Install](https://docs.conda.io/projects/conda/en/latest/user-guide/install/windows.html)
 - [Linux Install](https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html)
-
-## IDE (if running locally)
 
 [VSCode](https://code.visualstudio.com/) and the following extensions are useful if running on a local computer:
 

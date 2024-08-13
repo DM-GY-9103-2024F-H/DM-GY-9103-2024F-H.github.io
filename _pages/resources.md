@@ -11,11 +11,10 @@
 
 All of these are available digitally from the NYU library:
 
-- [Machine Learning for Audio, Image and Video Analysis: Theory and Applications](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=3062703) by Francesco Camastra
-- [Data Science and Analytics with Python](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=5264120) by Jesús Rogel-Salazar
-- [Deep Learning with PyTorch](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/deep-learning-with/9781617295263/) by Thomas Viehmann, Eli Stevens, Luca Pietro Giovanni Antiga
-- [Deep Learning for Coders with fastai and PyTorch](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/deep-learning-for/9781492045519/) by Jeremy Howard, Sylvain Gugger
-- [Deep Learning with PyTorch Lightning](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=6845748) by Kunal Sawarkar
+- [Machine Learning for Audio, Image and Video Analysis](https://search.library.nyu.edu/permalink/01NYU_INST/1d6v258/alma990043455210107871) by Francesco Camastra
+- [Data Science and Analytics with Python](https://search.library.nyu.edu/permalink/01NYU_INST/1d6v258/alma990057985780107876) by Jesús Rogel-Salazar
+- [Deep Learning with PyTorch](https://search.library.nyu.edu/permalink/01NYU_INST/1d6v258/alma990075739540107871) by Thomas Viehmann, Eli Stevens, Luca Pietro Giovanni Antiga
+- [Deep Learning for Coders with fastai and PyTorch](https://search.library.nyu.edu/permalink/01NYU_INST/1d6v258/alma990075764180107871) by Jeremy Howard, Sylvain Gugger
 
 ---
 

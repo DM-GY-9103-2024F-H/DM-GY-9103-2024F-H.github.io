@@ -90,7 +90,8 @@ Letter grades for the entire course will be assigned as follows:
 ### Week 02 (2024/09/10)
 - More GitHub and Notebooks
 - Python Lists and Dictionaries/Objects
-- NumPy
+- Some (Light) Statistics
+- NumPy and Matplotlib
 - Reading: Material implications of ML systems
 
 ### Week 03 (2024/09/17)

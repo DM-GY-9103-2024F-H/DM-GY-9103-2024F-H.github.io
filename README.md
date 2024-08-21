@@ -100,8 +100,7 @@ Letter grades for the entire course will be assigned as follows:
 
 ### Week 04 (2024/09/24)
 - Data Structures for Media
-- Images & Videos
-- Image Processing
+- Image Processing and Analysis
 - Reading: Big Data & Big Media
 
 ### Week 05 (2024/10/01)

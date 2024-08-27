@@ -118,38 +118,38 @@ Letter grades for the entire course will be assigned as follows:
 ### Week 07 (2024/10/15)
 - Unsupervised Learning
 - Measuring Learning
-- Cost Functions
-- Error & Accuracy
 
 ### Week 08 (2024/10/22)
 - Machine Learning Review
-- Intro to Neural Networks
-- PyTorch
+- Cost and Distance Functions
+- Error, Accuracy and Likelihood
 - Reading: Situated Knowledges
 
 ### Week 09 (2024/10/29)
-- TBD
+- Intro to Neural Networks
+- General Structure
 
-### Week 10 (2024/xx/xx)
-- TBD
+### Week 10 (2024/11/05)
+- More Neural Networks
+- PyTorch
 - Reading: ImageNet Classification with Convolutional Neural Networks
 
-### Week 11 (2024/xx/xx)
-- TBD
+### Week 11 (2024/11/12)
+- Convolutional Neural Networks
 
-### Week 12 (2024/xx/xx)
-- TBD
+### Week 12 (2024/11/19)
+- Transfer Learning and Finetuning
 - Reading: Missing Data Sets
 
-### Week 13 (2024/xx/xx)
-- TBD
+### Week 13 (2024/11/26)
+- Transformers
 
-### Week 14 (2024/xx/xx)
-- TBD
+### Week 14 (2024/12/03)
+- Project Review
 - Reading: Cosmotechnics, Unknowns, ChatGPT and Eschatology
 
-### Week 15 (2024/xx/xx)
-- TBD
+### Week 15 (2024/12/10)
+- Final Presentations
 
 ---
 

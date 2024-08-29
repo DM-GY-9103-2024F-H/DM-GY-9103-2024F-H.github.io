@@ -120,12 +120,13 @@ Letter grades for the entire course will be assigned as follows:
 - Measuring Learning
 
 ### Week 08 (2024/10/22)
-- Machine Learning Review
 - Cost and Distance Functions
-- Error, Accuracy and Likelihood
+- Dimension Reduction
+- Evaluation Functions
 - Reading: Situated Knowledges
 
 ### Week 09 (2024/10/29)
+- Machine Learning Review
 - Intro to Neural Networks
 - General Structure
 
@@ -142,7 +143,7 @@ Letter grades for the entire course will be assigned as follows:
 - Reading: Missing Data Sets
 
 ### Week 13 (2024/11/26)
-- Transformers
+- VAEs
 
 ### Week 14 (2024/12/03)
 - Project Review

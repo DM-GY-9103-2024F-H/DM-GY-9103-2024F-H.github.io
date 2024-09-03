@@ -128,7 +128,6 @@ Letter grades for the entire course will be assigned as follows:
 ### Week 09 (2024/11/05)
 - Machine Learning Review
 - Intro to Neural Networks
-- General Structure
 
 ### Week 10 (2024/11/12)
 - More Neural Networks
@@ -136,14 +135,14 @@ Letter grades for the entire course will be assigned as follows:
 - Reading: ImageNet Classification with Convolutional Neural Networks
 
 ### Week 11 (2024/11/19)
-- Convolutional Neural Networks
+- Variational Autoencoders
 
 ### Week 12 (2024/11/26)
-- Transfer Learning and Finetuning
+- Convolutional Neural Networks
 - Reading: Missing Data Sets
 
 ### Week 13 (2024/12/03)
-- VAEs
+- Transfer Learning and Finetuning
 
 ### Week 14 (2024/12/10)
 - Project Review

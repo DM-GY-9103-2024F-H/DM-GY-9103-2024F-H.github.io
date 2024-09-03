@@ -121,7 +121,7 @@ Letter grades for the entire course will be assigned as follows:
 
 ### Week 08 (2024/10/22)
 - Cost and Distance Functions
-- Dimension Reduction
+- Dimensionality Reduction
 - Evaluation Functions
 - Reading: Situated Knowledges
 

@@ -7,18 +7,18 @@
 - Instructor: [Thiago Hersan](https://thiagohersan.com)
 - email: [thiago.hersan@nyu.edu](mailto:thiago.hersan@nyu.edu)
 - Website: [https://9103H.github.io](https://9103H.github.io)
+- [Brightspace](https://brightspace.nyu.edu/d2l/home/407565)
 - Class Meeting: Tuesdays 6:30pm - 9:20pm 370 Jay Street Room 308
-- Office Hours: ...Soon...
-- Brightspace: ...Soon...
+- Office Hours: Mondays & Tuesdays 11:00am - 1:00pm 370 Jay Street Room 325A (IDM Grad Lab)
 
 ## Important Dates (for this course)
 
 - 2024/09/03: First class meeting
 - 2024/09/16: Last day to Add/Drop class
-- 2024/10/15: Break, no class
+- 2024/10/15: NO CLASS !
 - 2024/11/25: Last day to withdraw from class
-- 2024/12/10: Last class
-- 2024/12/17: Final Project due
+- 2024/12/10: Last lecture
+- 2024/12/17: Final Presentations
 
 ---
 
@@ -115,41 +115,41 @@ Letter grades for the entire course will be assigned as follows:
 - More ML with Scikit-Learn
 - Reading: Capturing (with) Data
 
-### Week 07 (2024/10/15)
+### Week 07 (2024/10/22)
 - Unsupervised Learning
 - Measuring Learning
 
-### Week 08 (2024/10/22)
+### Week 08 (2024/10/29)
 - Cost and Distance Functions
 - Dimensionality Reduction
 - Evaluation Functions
 - Reading: Situated Knowledges
 
-### Week 09 (2024/10/29)
+### Week 09 (2024/11/05)
 - Machine Learning Review
 - Intro to Neural Networks
 - General Structure
 
-### Week 10 (2024/11/05)
+### Week 10 (2024/11/12)
 - More Neural Networks
 - PyTorch
 - Reading: ImageNet Classification with Convolutional Neural Networks
 
-### Week 11 (2024/11/12)
+### Week 11 (2024/11/19)
 - Convolutional Neural Networks
 
-### Week 12 (2024/11/19)
+### Week 12 (2024/11/26)
 - Transfer Learning and Finetuning
 - Reading: Missing Data Sets
 
-### Week 13 (2024/11/26)
+### Week 13 (2024/12/03)
 - VAEs
 
-### Week 14 (2024/12/03)
+### Week 14 (2024/12/10)
 - Project Review
 - Reading: Cosmotechnics, Unknowns, ChatGPT and Eschatology
 
-### Week 15 (2024/12/10)
+### Week 15 (2024/12/17)
 - Final Presentations
 
 ---
@@ -171,10 +171,9 @@ Students should expect to spend roughly 6 hours each week on supplemental work i
 
 All of these are available digitally from the NYU library:
 
-- [Machine Learning for Audio, Image and Video Analysis](https://search.library.nyu.edu/permalink/01NYU_INST/1d6v258/alma990043455210107871) by Francesco Camastra
 - [Data Science and Analytics with Python](https://search.library.nyu.edu/permalink/01NYU_INST/1d6v258/alma990057985780107876) by Jesús Rogel-Salazar
+- [Machine Learning for Audio, Image and Video Analysis](https://search.library.nyu.edu/permalink/01NYU_INST/1d6v258/alma990043455210107871) by Francesco Camastra
 - [Deep Learning with PyTorch](https://search.library.nyu.edu/permalink/01NYU_INST/1d6v258/alma990075739540107871) by Thomas Viehmann, Eli Stevens, Luca Pietro Giovanni Antiga
-- [Deep Learning for Coders with fastai and PyTorch](https://search.library.nyu.edu/permalink/01NYU_INST/1d6v258/alma990075764180107871) by Jeremy Howard, Sylvain Gugger
 
 Additional reading materials will be distributed throughout the semester.
 

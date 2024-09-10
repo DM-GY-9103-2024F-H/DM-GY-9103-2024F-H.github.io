@@ -65,8 +65,8 @@ The grade for this course will be determined according to the following:
 | --- | --- |
 | Programming Assignments | 50% |
 | Participation | 10% |
-| Reading Responses | 15% |
-| Final Project | 25% |
+| Reading Responses | 10% |
+| Final Project | 30% |
 
 Letter grades for the entire course will be assigned as follows:
 
@@ -93,11 +93,11 @@ Letter grades for the entire course will be assigned as follows:
 - Python Lists and Dictionaries/Objects
 - Some (Light) Statistics
 - Matplotlib
-- Reading: Material implications of ML systems
 
 ### Week 03 (2024/09/17)
 - Data Structures for Media
 - Audio Representation, Analysis and Processing
+- Reading: Material implications of ML systems
 
 ### Week 04 (2024/09/24)
 - Data Structures for Media

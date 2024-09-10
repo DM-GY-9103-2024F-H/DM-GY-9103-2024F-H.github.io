@@ -9,7 +9,7 @@
 - Website: [https://9103H.github.io](https://9103H.github.io)
 - [Brightspace](https://brightspace.nyu.edu/d2l/home/407565) (for assignments)
 - Class Meeting: Tuesdays 6:30pm - 9:20pm 370 Jay Street Room 308
-- Office Hours: Mondays & Tuesdays 11:00am - 1:00pm 370 Jay Street Room 325A (IDM Grad Lab)
+- Office Hours: Mon & Tue, ([by appointment](https://calendar.app.google/ksTxa5AmwQt1dcms8)), 370 Jay Street Room 325A (IDM Grad Lab)
 
 ## Important Dates (for this course)
 

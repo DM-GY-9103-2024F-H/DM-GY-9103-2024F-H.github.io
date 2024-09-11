@@ -92,12 +92,12 @@ Letter grades for the entire course will be assigned as follows:
 - More GitHub and Notebooks
 - Python Lists and Dictionaries/Objects
 - Some (Light) Statistics
-- Matplotlib
+- Reading: Material implications of ML systems
 
 ### Week 03 (2024/09/17)
+- Matplotlib
 - Data Structures for Media
 - Audio Representation, Analysis and Processing
-- Reading: Material implications of ML systems
 
 ### Week 04 (2024/09/24)
 - Data Structures for Media

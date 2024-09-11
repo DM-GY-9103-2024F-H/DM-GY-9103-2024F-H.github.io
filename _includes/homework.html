@@ -2,19 +2,18 @@
 
 <div class="week-content-container">
   <h2 class="assignment-title">{{ hw.title }}</h2>
+  <h3 class="assignment-title">Due: {{ hw.when }}</h3>
 
   {% if hw.programming.description and hw.programming.description.size > 0 %}
     {% assign programming_title = "Programming" %}
     {% if hw.programming.points %}
       {% assign programming_title = programming_title | append: " (" |append: hw.programming.points | append: " points)" %}
     {% endif %}
-    {% assign programming_when = hw.programming.when | default: hw.when %}
 
     <h3 class="assignment-content-title programming-title">
-      <span>{{ programming_title }} | due: {{ programming_when }}</span>
+      <span>{{ programming_title }}</span>
     </h3>
     <div class="assignment-content-container">
-      <span>Due: {{ programming_when }}</span>
       {{ hw.programming.description | markdownify }}
     </div>
   {% endif %}
@@ -24,13 +23,11 @@
     {% if hw.reading.points %}
       {% assign reading_title = reading_title | append: " (" |append: hw.reading.points | append: " points)" %}
     {% endif %}
-    {% assign reading_when = hw.reading.when | default: hw.when %}
 
     <h3 class="assignment-content-title reading-title">
-      <span>{{ reading_title }} | due: {{ reading_when }}</span>
+      <span>{{ reading_title }}</span>
     </h3>
     <div class="assignment-content-container">
-      <span>Due: {{ reading_when }}</span>
       {{ hw.reading.title | markdownify }}
       {{ hw.reading.intro | markdownify }}
 
@@ -83,10 +80,10 @@
     </div>
   {% endif %}
 
-  <div class="assignment-back-container">
+  <!-- <div class="assignment-back-container">
     <a class="assignment-back-link" href="{{ site.baseurl }}{{ page.url | replace: '/homework/', '/week/' }}">
       <span>Week {{ page.slug }} material</span>
     </a>
-  </div>
+  </div> -->
 
 </div>

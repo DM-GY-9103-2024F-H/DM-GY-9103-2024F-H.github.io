@@ -91,13 +91,14 @@ Letter grades for the entire course will be assigned as follows:
 ### Week 02 (2024/09/10)
 - More GitHub and Notebooks
 - Python Lists and Dictionaries/Objects
+- Data Analysis
 - Some (Light) Statistics
 - Reading: Material implications of ML systems
 
 ### Week 03 (2024/09/17)
-- Matplotlib
 - Data Structures for Media
 - Audio Representation, Analysis and Processing
+- Matplotlib
 
 ### Week 04 (2024/09/24)
 - Data Structures for Media

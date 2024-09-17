@@ -64,8 +64,8 @@ The grade for this course will be determined according to the following:
 | Activity | % of Final Grade |
 | --- | --- |
 | Programming Assignments | 50% |
-| Participation | 10% |
-| Reading Responses | 10% |
+| Participation | 5% |
+| Reading Responses | 15% |
 | Final Project | 30% |
 
 Letter grades for the entire course will be assigned as follows:

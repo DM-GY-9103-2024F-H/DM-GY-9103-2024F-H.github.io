@@ -57,6 +57,10 @@ Around week 10 we will start working on a longer project that will combine many 
 
 The project will be broken up into milestones for different aspects of its development.
 
+### Participation
+
+After each class, students will submit a short reaction text via Brigthspace, detailing any questions, or summarizing what they learned in the class. These are always due on the day after class.
+
 ## Grading
 
 The grade for this course will be determined according to the following:

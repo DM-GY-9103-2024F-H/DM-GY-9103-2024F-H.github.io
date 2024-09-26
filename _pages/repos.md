@@ -1,5 +1,5 @@
 ---
-permalink: "gh/"
+permalink: "repos/"
 ---
 
 <script>

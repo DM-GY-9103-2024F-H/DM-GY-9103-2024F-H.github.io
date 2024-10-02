@@ -105,53 +105,53 @@ Letter grades for the entire course will be assigned as follows:
 - Matplotlib
 
 ### Week 04 (2024/09/24)
-- Data Structures for Media
+- Audio Representation, Analysis and Processing
+- Matplotlib
+
+### Week 05 (2024/10/01)
 - Image Processing and Analysis
 - Reading: Big Data & Big Media
 
-### Week 05 (2024/10/01)
+### Week 06 (2024/10/01)
 - Dataset Exploration and Matplotlib
 - Pandas & DataFrames
 - Scaling & Encoding
 - ML with Scikit-Learn
 
-### Week 06 (2024/10/08)
+### Week 07 (2024/10/08)
 - Regression & Classification
 - Supervised Learning
 - More ML with Scikit-Learn
 - Reading: Capturing (with) Data
 
-### Week 07 (2024/10/22)
+### Week 08 (2024/10/22)
 - Unsupervised Learning
 - Measuring Learning
 
-### Week 08 (2024/10/29)
+### Week 09 (2024/10/29)
 - Cost and Distance Functions
 - Dimensionality Reduction
 - Evaluation Functions
 - Reading: Situated Knowledges
 
-### Week 09 (2024/11/05)
+### Week 10 (2024/11/05)
 - Machine Learning Review
 - Intro to Neural Networks
 
-### Week 10 (2024/11/12)
+### Week 11 (2024/11/12)
 - More Neural Networks
 - PyTorch
 - Reading: ImageNet Classification with Convolutional Neural Networks
 
-### Week 11 (2024/11/19)
+### Week 12 (2024/11/19)
 - Variational Autoencoders
 
-### Week 12 (2024/11/26)
+### Week 13 (2024/11/26)
 - Convolutional Neural Networks
 - Reading: Missing Data Sets
 
-### Week 13 (2024/12/03)
+### Week 14 (2024/12/03)
 - Transfer Learning and Finetuning
-
-### Week 14 (2024/12/10)
-- Project Review
 - Reading: Cosmotechnics, Unknowns, ChatGPT and Eschatology
 
 ### Week 15 (2024/12/17)

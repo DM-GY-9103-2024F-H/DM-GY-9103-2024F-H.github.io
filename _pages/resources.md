@@ -11,9 +11,7 @@
 
 All of these are available digitally from the NYU library:
 
-- [Data Science and Analytics with Python](https://search.library.nyu.edu/permalink/01NYU_INST/1d6v258/alma990057985780107876) by Jesús Rogel-Salazar
-- [Machine Learning for Audio, Image and Video Analysis](https://search.library.nyu.edu/permalink/01NYU_INST/1d6v258/alma990043455210107871) by Francesco Camastra
-- [Deep Learning with PyTorch](https://search.library.nyu.edu/permalink/01NYU_INST/1d6v258/alma990075739540107871) by Thomas Viehmann, Eli Stevens, Luca Pietro Giovanni Antiga
+{% include books.html %}
 
 ---
 

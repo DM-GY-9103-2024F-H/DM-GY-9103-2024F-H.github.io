@@ -1,0 +1,44 @@
+- title: "Data Science and Analytics with Python"
+  abbr: "DSAP"
+  authors: "Jesús Rogel-Salazar"
+  url: "https://search.library.nyu.edu/permalink/01NYU_INST/1d6v258/alma990057985780107876"
+
+- title: "Fundamentals of Music Processing: Using Python and Jupyter Notebooks"
+  abbr: "FMP"
+  authors: "Meinard Müller"
+  url: "https://search.library.nyu.edu/permalink/01NYU_INST/1d6v258/alma990080858040107871"
+
+- title: "Machine Learning for Audio, Image and Video Analysis: Theory and Applications"
+  abbr: "MLAIVA"
+  authors: "Francesco Camastra, Alessandro Vinciarelli"
+  url: "https://search.library.nyu.edu/permalink/01NYU_INST/1d6v258/alma990044563780107871"
+
+- title: "Music Similarity and Retrieval: An Introduction to Audio- and Web-Based Strategies"
+  abbr: "MSR"
+  authors: " Peter Knees, Markus Schedl"
+  url: "https://search.library.nyu.edu/permalink/01NYU_INST/1d6v258/alma990043368150107871"
+
+- title: "Deep Learning for Vision Systems"
+  abbr: "DLVS"
+  authors: "Mohamed Elgendy"
+  url: "https://search.library.nyu.edu/permalink/01NYU_INST/1d6v258/alma990079351780107871"
+
+- title: "Hands-On Image Processing with Python"
+  abbr: "HOIPP"
+  authors: "Sandipan Dey"
+  url: "https://search.library.nyu.edu/permalink/01NYU_INST/1d6v258/alma990055895410107871"
+
+- title: "Deep Learning"
+  abbr: "DL"
+  authors: "Ian Goodfellow, Yoshua Bengio, Aaron Courville"
+  url: "https://search.library.nyu.edu/permalink/01NYU_INST/1d6v258/alma990045715540107876"
+
+- title: "Dive into Deep Learning"
+  abbr: "D2L"
+  authors: "Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola"
+  url: "https://d2l.ai"
+
+- title: "Deep Learning with PyTorch"
+  abbr: "DLPT"
+  authors: "Thomas Viehmann, Eli Stevens, Luca Pietro Giovanni Antiga"
+  url: "https://search.library.nyu.edu/permalink/01NYU_INST/1d6v258/alma990075739540107871"

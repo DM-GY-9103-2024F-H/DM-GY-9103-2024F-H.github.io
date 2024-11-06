@@ -1,7 +1,7 @@
 ---
-permalink: "w013/"
-title: Week 13
-when: 2024/12/03
+permalink: "w14/"
+title: Week 14
+when: 2024/12/10
 what:
   - TBD
 xclass:
@@ -13,6 +13,6 @@ xreadings:
   - title: TBD
     urls:
       - #
-homework: "13"
+homework: "14"
 ---
 {% include week.html page=page %}

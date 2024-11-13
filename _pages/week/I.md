@@ -10,9 +10,12 @@ xclass:
   - title: Code
     url: #
 xreadings:
-  - title: TBD
+  - title: CNNs
     urls:
-      - #
+      - https://colah.github.io/posts/2014-07-Understanding-Convolutions/
+      - https://colah.github.io/posts/2014-07-Conv-Nets-Modular/
+      - https://machinelearningmastery.com/crash-course-convolutional-neural-networks/
+      - https://machinelearningmastery.com/convolutional-layers-for-deep-learning-neural-networks/
 homework: "12"
 ---
 {% include week.html page=page %}

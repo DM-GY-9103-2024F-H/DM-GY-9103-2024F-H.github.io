@@ -14,6 +14,9 @@ xreadings:
   - title: Neural Network for Linear Regression
     urls:
       - #
+  - title: A Recipe for Training Neural Networks
+    urls:
+      - https://karpathy.github.io/2019/04/25/recipe/
   - title: Optimizers
     urls:
       - https://machinelearningmastery.com/using-optimizers-from-pytorch/

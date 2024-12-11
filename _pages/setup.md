@@ -6,7 +6,7 @@
 
 Like... an actual physical notebook with paper and some pens. This will be needed for notes, sketches and drawings during class and for sketching out ideas and prototypes for projects and assignments. If you're already using a digital notebook app on a tablet... that's also fine.
 
-## Git and Github
+## Git and GitHub
 
 Sign-up for a free [github](https://github.com) account and add your name to your profile ([video](https://www.youtube.com/watch?v=ZVRuPO8nCLA)).
 
